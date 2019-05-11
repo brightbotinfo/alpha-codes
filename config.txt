@@ -1,6 +1,6 @@
-token=NTAyNzE3MzE1OTI2OTgyNjU3.Dqr_ig.0SfQvU97M1yPAiCPLGCOQXqErww
-owner=202745501345382400
-prefix=#
-game=#Alpha_Codes
+token=NTc1MDMxNDUzODY4NjIxODQ2.XNC_8Q.RoFbtxSIl7PyLr9BbLEdEYK1WJ4
+owner=370828320910213131
+prefix=-
+game=
 stayinchannel=true
 songinstatus=false
